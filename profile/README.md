@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Itowe%20fitchecker&fontSize=90&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=%20Itowe&fontSize=50&animation=twinkling&fontColor=ffffff&desc=fitchecker)
 -------------------------
 
 
