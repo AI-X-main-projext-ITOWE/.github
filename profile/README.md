@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=안녕%하세요!)
+![header](https://capsule-render.vercel.app/api?text=Itowe!)
 ## Hi there 👋
 
 <!--
