@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=300&section=header&text=Itowe%20fitchecker&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=300&section=header&text=Itowe%20fitchecker&fontSize=90&animation=fadeIn)
 <!--
 
 **Here are some ideas to get you started:**
