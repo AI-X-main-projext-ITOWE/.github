@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=150&section=header&text=Itowe%20fitchecker&fontSize=90&animation=twinkling)
-n/
+-------------------------
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
