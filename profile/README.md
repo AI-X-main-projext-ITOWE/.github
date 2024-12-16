@@ -4,7 +4,7 @@
 -------------------------
 -------------------------
 ## ❄ STACK
-![image](https://github.com/AI-X-min-projext-ITOWE/.github/blob/main/stack.png)
+![image](https://github.com/AI-X-main-projext-ITOWE/.github/blob/main/stack.png)
 <br>
 -------------------------
 ## ⛄ Contributor
