@@ -77,6 +77,8 @@
 
 ##  ![christmas-gloves](https://github.com/user-attachments/assets/b4690dad-108c-4d8b-bfee-e4be5db3a854) Architecture
 
+![image](https://github.com/AI-X-main-projext-ITOWE/.github/blob/main/archituecture.png)
+
 
 
 <br>
