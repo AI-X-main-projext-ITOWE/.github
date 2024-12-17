@@ -79,7 +79,7 @@
 
 ![image](https://github.com/AI-X-main-projext-ITOWE/.github/blob/main/architecture.png)
 
-
+ 
 
 <br>
 
