@@ -1,5 +1,5 @@
 
-###*ITOWE's Project
+###ITOWE's Project
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2E64FE&height=250&section=header&text=%20💪fitchecker&fontSize=50&animation=twinkling&fontColor=FFFF00&desc=ItoWe🤸‍♂️&stroke=FFFFFF&strokeWidth=3&rotate=-20&fontAlign=50&fontAlignY=50)
 -------------------------
 
